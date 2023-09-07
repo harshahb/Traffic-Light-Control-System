@@ -37,3 +37,9 @@ Improved traffic management and reduced congestion.
 Enhanced safety with priority passage for emergency vehicles.
 Adaptable to various intersection types and traffic conditions.
 Demonstrates strong problem-solving skills by utilizing real-time sensor data.
+
+
+Image: 
+
+![image](https://github.com/harshahb/Traffic-Light-Control-System/assets/85894544/4fa2848d-8774-48bb-87ff-a0d3cc16b355)
+
